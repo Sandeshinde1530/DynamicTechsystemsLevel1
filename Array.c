@@ -1,0 +1,14 @@
+#include<stdio.h>
+
+int main()
+{
+    int Arr[] = {10,20,30,40};
+    // Arr is one dimensional array which contains 4 elements in it , each of type integer;
+
+    int Brr[3][4] = {10,20,30,40,50,60,70,80,90,100,120};
+   // Brr is Two dimensional Array which contains 3 one dimensinal array in it and each one dimensional array
+   // contains 4 elements in it and each of type 
+  
+
+    return 0;
+}
